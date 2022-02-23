@@ -1,0 +1,70 @@
+.main {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.contact {
+  margin-bottom: 50px;
+  width: 400px;
+  margin-top: 30px;
+}
+h2 {
+  color: rgb(45, 45, 170);
+  text-align: center;
+}
+h3 {
+  color: rgb(45, 45, 170);
+}
+.objective {
+  float: right;
+  width: 40%;
+  margin-right: 180px;
+}
+.experience {
+  float: right;
+  width: 40%;
+  margin-left: 350px;
+  margin-right: 180px;
+}
+.exp-duration {
+  margin-left: 0%;
+  margin-bottom: 150px;
+}
+.exp-details {
+  position: relative;
+  float: right;
+  width: 60%;
+}
+li {
+  list-style: none;
+}
+.experience-main {
+  margin-bottom: 180px;
+}
+.education {
+  width: 40%;
+  margin-right: 180px;
+  float: right;
+}
+.edu-details {
+  float: right;
+  position: relative;
+}
+.declaration {
+  float: right;
+  width: 40%;
+  margin-right: 180px;
+}
+.exp-details-dizy {
+  width: 60%;
+  float: right;
+}
+.college {
+  width: 200px;
+  float: right;
+  position: relative;
+  margin-bottom: 5px;
+}
+.signature {
+  float: right;
+}
